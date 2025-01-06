@@ -1,21 +1,3 @@
-# Replit Connections
-**Where users of replit can connect.**
+# ReplitConnections
 
-**Users**
-
-Users still exists. 
-
-1. https://replit.com/@MilesWK
-2. https://replit.com/@TechWithAnirudh
-3. https://replit.com/@AndrewDeng3
-4. https://replit.com/@Fairies0Feast
----
-
-**Projects**
-
-COMING SOON
-
----
-
-# Contributing
-I want people to contribute to this page. PLEASE share it so other people can contribute and add to the list. Please create pull requests to add more information!
+Hi! This is no longer here! (😲) Instead, go to the [Official ReplitConnections GitHub Profile](https://github.com/ReplitConnections/ReplitConnections/) where we have a *big* community over there! (14 people... almost 200 comments, it's fun!) 🙂
